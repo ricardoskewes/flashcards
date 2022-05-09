@@ -8,7 +8,7 @@ This project requires the latest version of [Anki Desktop](https://apps.ankiweb.
 
 
 # After unzipping the project files in the folder and opening a server
-1. Download a PDF file of math notes. (A folder of math notes is available in the project files for testing, but any reasonable well-written set of math notes from the internet containing the key words should work)
+1. Download a PDF file of math notes. (Down, we provide links to open notes we found on the internet, but any reasonable well-written set of math notes from the internet containing the key words should work)
 2. Upload your PDF file by dragging into it the box or selecting it.
 3. Click the download button once it appears. If the button does not appear, there was an error reading the file (check console log)
 4. Select where you would like the file to be downloaded.
@@ -30,4 +30,9 @@ We could also expand our search patterns so that this project can work with diff
 A large source of error in our current project is that complex math symbols often do not get copied over into the Anki Cards. To mediate this issue, we can incorporate a paid service that takes a picture of a math equation and converts it into MathJax or LaTeX which is supported by Anki.
 
 
-Video Link: https://www.youtube.com/watch?v=OYyBPxKtkCk
+# Math Notes Examples
+1. [Group Theory Notes](https://pages.mtu.edu/~kreher/ABOUTME/syllabus/GTN.pdf) by Donald L. Kreher
+2. [Notes on Linear Algebra](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/linalg.pdf) by Peter J. Cameron
+
+# Video Link: 
+https://www.youtube.com/watch?v=OYyBPxKtkCk
