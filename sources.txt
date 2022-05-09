@@ -1,0 +1,10 @@
+These are some of the sources we consulted to decide that a Chrome extension was not the best choice for our project:
+
+https://npmcdn.com/pdfjs-dist@2.13.216/build/pdf.js
+https://stackoverflow.com/questions/25912961/extract-text-from-pdf-in-chrome-extensions
+https://www.apache.org/licenses/LICENSE-2.0
+https://stackoverflow.com/questions/53029697/how-to-include-library-in-extension-in-chrome
+https://stackoverflow.com/questions/2579883/using-external-javascript-files-in-a-js-file
+https://developer.mozilla.org/en-US/docs/Web/API/Node/baseURI
+NOT PERMITTED https://stackoverflow.com/questions/71374274/how-to-load-cdn-scripts-in-chrome-extension-manifest-v3-by-avoiding-content-se
+ONLY WAY https://bugs.chromium.org/p/chromium/issues/detail?id=1239976
